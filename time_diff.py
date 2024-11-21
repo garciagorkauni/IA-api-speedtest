@@ -40,7 +40,3 @@ except:
     print("An error ocurred getting the response of gpt...")
 
 print("\n\n")
-
-# print('Llama: ' + llama_response(prompt)
-# print('Gemini: ' + gemini_response(prompt)
-# print('GPT: ' + gpt_response(prompt)
